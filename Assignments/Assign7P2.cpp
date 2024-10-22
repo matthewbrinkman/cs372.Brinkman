@@ -1,7 +1,6 @@
 
 // This code was created using claude.ai. The prompt used was the question from canvas.
 
-#pragma once
 #include <iostream>
 #include <vector>
 #include <algorithm>
